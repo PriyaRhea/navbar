@@ -1,0 +1,26 @@
+ /* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navcontainer{
+    background-color: aqua;
+    height: 100px;
+    width: 100%;
+}
+span{
+    color: yellowgreen;
+    padding-left: 20px;
+}
+ul{
+    float: left;
+}
+.nav ul li{
+    display: inline;
+    margin: 0 10px;
+}
+.nav ul li{
+    color: white;
+    padding : 10px 15px;
+}  */
+
